@@ -6,18 +6,19 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
 
 <p align="left"> 
-    <a href="https://github.com/ryo-ma/github-profile-trophy">
+   <!--  <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hamzapaskingakhtar1999" alt="hamzapaskingakhtar1999" />
-    </a> 
+    </a>  -->
+    - 👨‍💻 All of my projects are available at [https://hamzapaskingakhtar.netlify.app/](https://hamzapaskingakhtar.netlify.app/)
+
+    - 💬 Ask me about **JavaScript, Python, Web Development, Data Analytics**
+
+    - 📫 How to reach me **hamzapaskingakhtar@gmail.com**
+
+    - ⚡ Fun fact **I like learning new things.**
 </p>
 
-- 👨‍💻 All of my projects are available at [https://hamzapaskingakhtar.netlify.app/](https://hamzapaskingakhtar.netlify.app/)
 
-- 💬 Ask me about **JavaScript, Python, Web Development, Data Analytics**
-
-- 📫 How to reach me **hamzapaskingakhtar@gmail.com**
-
-- ⚡ Fun fact **I like learning new things.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
