@@ -3,9 +3,13 @@
 <h1 align="center">Hi 👋, I'm Hamza Pasking Akhtar</h1>
 <h3 align="center">A passionate full stack web developer and data analyst.</h3>
 
-<img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"></img>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hamzapaskingakhtar1999" alt="hamzapaskingakhtar1999" /></a> </p>
+<p align="left"> 
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=hamzapaskingakhtar1999" alt="hamzapaskingakhtar1999" />
+    </a> 
+</p>
 
 - 👨‍💻 All of my projects are available at [https://hamzapaskingakhtar.netlify.app/](https://hamzapaskingakhtar.netlify.app/)
 
