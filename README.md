@@ -9,7 +9,7 @@
    <!--  <a href="https://github.com/ryo-ma/github-profile-trophy">
         <img src="https://github-profile-trophy.vercel.app/?username=hamzapaskingakhtar1999" alt="hamzapaskingakhtar1999" />
     </a>  -->
-    - 👨‍💻 All of my projects are available at https://hamzapaskingakhtar.netlify.app
+    - 👨‍💻 All of my projects are available at https://hamzapaskingakhtar.com
 
     - 💬 Ask me about **JavaScript, Python, Web Development, Data Analytics**
 
